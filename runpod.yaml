@@ -1,3 +1,0 @@
-name: cartoonizer
-gpu: A10
-handler: handler.handler
