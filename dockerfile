@@ -1,4 +1,4 @@
-FROM runpod/pytorch:2.0.1-cuda11.7
+FROM huggingface/transformers-pytorch-gpu:4.26.1
 
 WORKDIR /app
 
